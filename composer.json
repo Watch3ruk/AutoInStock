@@ -1,5 +1,5 @@
 {
-    "name": "watch3r/module-autoinstock",
+    "name": "watch3r/autoinstock",
     "description": "Custom Module For auto in stock on product change",
   "type": "magento2-module",
   "version": "1.1",

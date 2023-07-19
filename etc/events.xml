@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
   <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Event/etc/events.xsd">
     <event name="catalog_product_save_after">
-      <observer instance="Watch3ruk\AutoInStock\Observer\Backend\Catalog\ProductSaveAfter" name="watch3ruk_autoinstock_observer_backend_catalog_productsaveafter_catalog_product_save_after"/>
+      <observer instance="watch3ruk\module-autoinstock\Observer\Backend\Catalog\ProductSaveAfter" name="watch3ruk_autoinstock_observer_backend_catalog_productsaveafter_catalog_product_save_after"/>
      </event>
  </config>

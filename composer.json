@@ -1,0 +1,21 @@
+{
+    "name": "watch3r/module-autoinstock",
+    "description": "Custom Module For auto in stock on product change",
+  "type": "magento2-module",
+  "version": "0.0.1",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "watch3r",
+            "email": "info@ostoya.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+     "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "watch3r\\module-autoinstock\\": ""
+    }
+  }
+}

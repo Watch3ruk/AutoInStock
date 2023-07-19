@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Watch3ruk\AutoInStock\Observer\Backend\Catalog;
+namespace Watch3r\AutoInStock\Observer\Backend\Catalog;
 
 class ProductSaveAfter implements \Magento\Framework\Event\ObserverInterface
 {

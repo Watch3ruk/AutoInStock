@@ -15,7 +15,7 @@
      "autoload": {
     "files": [ "registration.php" ],
     "psr-4": {
-      "watch3r\\module-autoinstock\\": ""
+      "Watch3r\\AutoInStock\\": ""
     }
   }
 }

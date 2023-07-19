@@ -2,7 +2,7 @@
     "name": "watch3r/module-autoinstock",
     "description": "Custom Module For auto in stock on product change",
   "type": "magento2-module",
-  "version": "0.0.1",
+  "version": "1.0",
     "license": "proprietary",
     "authors": [
         {
